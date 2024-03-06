@@ -1,5 +1,5 @@
 ---
 title: "Research"
-permalink: /categories/
+permalink: /research/
 author_profile: true
 ---
