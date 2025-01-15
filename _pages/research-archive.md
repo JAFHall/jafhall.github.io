@@ -14,6 +14,7 @@ author_profile: true
 ## Refereed Publications
 
 - ``Discussion of `Fiscal Federalism and monetary unions' by Berriel, Gonzalez-Aguado, Kehoe, and Pastorino,'' with Marco Bassetto, *Journal of Monetary Economics, 2024.*
+  
 ## Other Publications
 
 - ``On the Mechanics of Fiscal Inflations,'' with Marco Bassetto and Luca Benzoni, *Quarterly Review, 2024*
