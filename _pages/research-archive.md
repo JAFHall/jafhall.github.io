@@ -7,9 +7,9 @@ author_profile: true
 
 ## Works in Progress
 
--- ``Griliches Goes Global,'' with Honey Batro and Scott Sommers
+- ``Griliches Goes Global,'' with Honey Batro and Scott Sommers
 
--- ``Inventors are Rival, Inventions are Not''
+- ``Inventors are Rival, Inventions are Not''
 
 ## Refereed Publications
 
