@@ -5,11 +5,15 @@ author_profile: true
 ---
 ## Working Papers
 
+- ``Inventors are Rival, Inventions are Not''
+
 ## Works in Progress
 
-- ``Griliches Goes Global,'' with Honey Batra and Scott Sommers
+- ``Barriers to Adoption: Evidence from BT-Corn'' with Honey Batra and Scott Sommers (draft coming soon)
 
-- ``Inventors are Rival, Inventions are Not''
+- ``Heterogeneous Knowledge Growth''
+
+- ``The Structure of Scientific Labor Markets''
 
 ## Refereed Publications
 
