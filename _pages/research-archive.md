@@ -13,7 +13,7 @@ author_profile: true
 
 - ``Heterogeneous Knowledge Growth''
 
-- ``The Structure of Scientific Labor Markets''
+- ``The (Market-)Structure of Scientific Labor Markets''
 
 ## Refereed Publications
 
