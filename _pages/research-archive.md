@@ -9,7 +9,7 @@ author_profile: true
 - ``Inventors are Rival, Inventions are Not''
 
 - ``Barriers to Adoption: Evidence from BT-Corn''<br>
-  *with Honey Batra and Scott Sommers (draft coming soon)*
+  *with Honey Batra and Scott Sommers (updated draft coming soon)*
 
 ## Works in Progress
 
