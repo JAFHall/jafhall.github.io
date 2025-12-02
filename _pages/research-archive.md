@@ -7,13 +7,15 @@ author_profile: true
 
 - ``Inventors are Rival, Inventions are Not''
 
-## Works in Progress
-
 - ``Barriers to Adoption: Evidence from BT-Corn'' with Honey Batra and Scott Sommers (draft coming soon)
+
+## Works in Progress
 
 - ``Heterogeneous Knowledge Growth''
 
 - ``The (Market-)Structure of Scientific Labor Markets''
+
+- ``Spatial Spillovers and Optimal R&D Policy'' with Thomas Hasenzagl
 
 ## Refereed Publications
 
