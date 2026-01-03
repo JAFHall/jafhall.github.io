@@ -11,6 +11,9 @@ author_profile: true
 - ``Barriers to Adoption: Evidence from BT-Corn''<br>
   *with Honey Batra and Scott Sommers (updated draft coming soon)*
 
+- [``The Role of Dispersed Information in Maintaining Low Interest Rates''](https://carlogalli.github.io/bassettogallihall-draft.pdf)<br>
+  *with Marco Bassetto and Carlo Galli*
+
 ## Works in Progress
 
 - ``Heterogeneous Knowledge Growth''
