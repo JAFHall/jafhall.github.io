@@ -20,6 +20,9 @@ author_profile: true
 - ``Spatial Spillovers and Optimal R&D Policy''<br>
   *with Thomas Hasenzagl*
 
+- ``The Macroeconomics of an Aging Innovative Workforce''
+  *with Graham Lewis*
+
 ## Refereed Publications
 
 - ``Discussion of `Fiscal Federalism and monetary unions' by Berriel, Gonzalez-Aguado, Kehoe, and Pastorino''<br>
