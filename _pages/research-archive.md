@@ -6,7 +6,7 @@ author_profile: true
 
 ## Working Papers
 
-- ``Inventors are Rival, Inventions are Not''
+- [``Inventors are Rival, Inventions are Not''](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5296383)
 
 - ``Barriers to Adoption: Evidence from BT-Corn''<br>
   *with Honey Batra and Scott Sommers (updated draft coming soon)*
