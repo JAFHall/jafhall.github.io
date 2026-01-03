@@ -20,7 +20,7 @@ author_profile: true
 - ``Spatial Spillovers and Optimal R&D Policy''<br>
   *with Thomas Hasenzagl*
 
-- ``The Macroeconomics of an Aging Innovative Workforce''
+- ``The Macroeconomics of an Aging Innovative Workforce''<br>
   *with Graham Lewis*
 
 ## Refereed Publications
