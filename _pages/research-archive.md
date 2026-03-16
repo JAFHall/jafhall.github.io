@@ -16,7 +16,7 @@ author_profile: true
 
 ## Works in Progress
 
-- Heterogeneous Knowledge Growth
+- The Lasting Effects of Government R&D
 
 - The (Market-)Structure of Scientific Labor Markets
 
