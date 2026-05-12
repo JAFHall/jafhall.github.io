@@ -26,7 +26,7 @@ author_profile: true
 - The Macroeconomics of an Aging Innovative Workforce<br>
   *with Graham Lewis*
 
-- Time-Consistent Policy with Pre-Tax or Post-Tax Retirement Accounts
+- Time-Consistent Policy with Pre-Tax or Post-Tax Retirement Accounts<br>
   *with Marco Bassetto*
 
 ## Refereed Publications
