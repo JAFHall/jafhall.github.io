@@ -4,6 +4,12 @@ permalink: /research/
 author_profile: true
 ---
 
+## Job Market Paper 
+
+- The Lasting Effects of Government R&D
+ *draft coming soon*
+
+
 ## Working Papers
 
 - [Inventors are Rival, Inventions are Not](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5296383)
@@ -15,8 +21,6 @@ author_profile: true
   *with Marco Bassetto and Carlo Galli*
 
 ## Works in Progress
-
-- The Lasting Effects of Government R&D
 
 - The (Market-)Structure of Scientific Labor Markets
 
