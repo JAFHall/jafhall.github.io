@@ -6,7 +6,7 @@ author_profile: true
 
 ## Job Market Paper 
 
-- The Lasting Effects of Government R&D
+- The Lasting Effects of Government R&D<br>
    *draft coming soon*
 
 
