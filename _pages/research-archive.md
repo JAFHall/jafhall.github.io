@@ -17,9 +17,6 @@ author_profile: true
 - Barriers to Adoption: Evidence from BT-Corn<br>
   *with Honey Batra and Scott Sommers (updated draft coming soon)*
 
-- [The Role of Dispersed Information in Maintaining Low Interest Rates](https://carlogalli.github.io/bassettogallihall-draft.pdf)<br>
-  *with Marco Bassetto and Carlo Galli*
-
 ## Works in Progress
 
 - The (Market-)Structure of Scientific Labor Markets
@@ -37,6 +34,9 @@ author_profile: true
 
 - Discussion of `Fiscal Federalism and monetary unions' by Berriel, Gonzalez-Aguado, Kehoe, and Pastorino<br>
   *with Marco Bassetto* — Journal of Monetary Economics, 2024
+
+- [The Role of Dispersed Information in Maintaining Low Interest Rates](https://carlogalli.github.io/bassettogallihall-draft.pdf)<br>
+  *with Marco Bassetto and Carlo Galli* - Journal of Macroeconomics, forthcoming
 
 ## Other Publications
 
