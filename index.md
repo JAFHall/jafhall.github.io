@@ -8,5 +8,5 @@ My name is Jason Alexander Fenton Hall and I am a Ph.D. student in the Departmen
 
 I am interested in game theory in macroeconomics, the economics of science and innovation, and the effectiveness and design of R&D policy.  My fields are growth and development, innovation, and public economics. 
 
-I am on the 2026-2027 job market.  You can find my CV [here]({{jafhall.github.io}}/cv_1005.pdf).
+I am on the 2026-2027 job market.  You can find my CV [here]({{jafhall.github.io}}/cv_1008.pdf).
 
