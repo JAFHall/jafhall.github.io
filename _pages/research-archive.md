@@ -7,7 +7,7 @@ author_profile: true
 ## Job Market Paper 
 
 - [The Lasting Effects of Government R&D](https://jafhall.github.io/jmp_live.pdf)<br>
-  <small>[Slides](https://jafhall.github.io/slides_frbminneapolis.pdf)</small>
+  <small>[slides](https://jafhall.github.io/slides_frbminneapolis.pdf)</small>
 
 
 ## Working Papers
