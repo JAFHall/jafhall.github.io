@@ -10,7 +10,7 @@ My fields are growth and development, labor, innovation, and public economics.  
 
 I am on the 2026-2027 job market.  My job market paper studies how changes to government funding affect the creation of scientific human capital and through that aggregate growth.  You can find that [here]({{jafhall.github.io}}/jmp_live.pdf).
 
-You can find my CV [here]({{jafhall.github.io}}/market_cv_1030.pdf).
+You can find my CV [here]({{jafhall.github.io}}/market_cv_1103.pdf).
 
 
 
