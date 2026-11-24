@@ -77,7 +77,7 @@ footer:
       url: "https://twitter.com/jason_a_hall"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/jafhall"
 
 defaults:
   # _pages
